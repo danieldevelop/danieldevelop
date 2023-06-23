@@ -43,13 +43,43 @@ En el bootcamp de Henry me ha permitido adquirir nuevos conocimientos expandiend
 
 ## Mis proyectos
 
-#### Henry Bootcamp Proyecto Individual
-<img src="https://media.licdn.com/dms/image/D4E22AQEuU3WeecUVuw/feedshare-shrink_2048_1536/0/1687487064350?e=1690416000&v=beta&t=ltObpgvfu1kN67YnPwHBLEJw6eUiI2-uP2k1Poinc7w" width=250>
+#### Henry Bootcamp - Proyecto Final
+<img src="https://media.licdn.com/dms/image/D4E22AQHQwTJjSBfHlg/feedshare-shrink_2048_1536/0/1687525932017?e=1690416000&v=beta&t=xqwkh-x1dyIJNdAQdxyqgWivQb1eRczkViqhiPFUO68" width=250 align="left">
+
+Carta virtual de restaturant, donde los usuarios se podra registrar mediante de un formulario o autenticacion de tercero,
+los usuaros podran comprar comida desde la comodidad de su casa con despacho a domicilio.
+
+Si quieres ver nuestro proyecto te envito a entrar al siguiente enlace: [tasty-meals](https://tasty-meals.vercel.app/)
+
+<br><br>
+
+#### Henry Bootcamp - Proyecto Individual
+<img src="https://media.licdn.com/dms/image/D4E22AQEuU3WeecUVuw/feedshare-shrink_2048_1536/0/1687487064350?e=1690416000&v=beta&t=ltObpgvfu1kN67YnPwHBLEJw6eUiI2-uP2k1Poinc7w" width=250 align="left"> 
+
+Single Page Application utilizando las tecnologías: React, Redux, Node, Express y Sequelize, es una aplicación web a partir de la API pokeapi en la que se puede:
+
+<span>
+  - <strong>Buscar un pokemon</strong><br>
+  - <strong>Visualizar el detalle de un pokemon</strong><br>
+  - <strong>Crear nuevos pokemones</strong>
+</span>
+<br><br>
+
+#### CRUD - Sistema de gestion de usuarios
+<img src="https://user-images.githubusercontent.com/51731637/209741909-1f3c4def-03b3-4fba-8a77-a1bd9ece452f.png" width=400  align="left">
+
+Sistema para gestionar usuarios, utilizando tecnologias PHP, HTML5, Bootstrap, JS y MySQL, es una aplicacion web que permite la:
+
+<span>
+  - <strong>Creacion de un usuario</strong><br>
+  - <strong>Leer y Actualizar un usuario</strong><br>
+  - <strong>Eliminar un usuario</strong>
+</span>
+<br><br>
 
 #### Pronto se implementara nuevos proyectos
 
-
-
+<br><br>
 ### No dudes en contactarme!
 
 Juntos podemos reaizar un gran proyecto que cambie la vida de miles de personas
