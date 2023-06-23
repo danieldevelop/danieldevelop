@@ -6,7 +6,7 @@ Soy un programador **_Programador Fullstack_** orientado al desarrollo **_Back-e
   
 Desde que tengo 16 años me ha interesado el mundo de la programación. Mi primer lenguaje fue **_Java_**. Sin duda una de las experencias mas     motivadoras fue mi acercamiento al código. 
 
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador. **_Me fascina poder encontrar la solución a los problemas de la vida con código_**
+Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion como programador. **_Me fascina poder encontrar la solución a los problemas de la vida con código_**
 
 
 
