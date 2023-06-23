@@ -68,7 +68,7 @@ Single Page Application utilizando las tecnologías: React, Redux, Node, Express
 </span>
 <br><br>
 
-### - CRUD - Sistema de gestion de usuarios
+### CRUD - Sistema de gestion de usuarios
 <img src="https://user-images.githubusercontent.com/51731637/209741909-1f3c4def-03b3-4fba-8a77-a1bd9ece452f.png" width=400  align="left">
 
 Sistema para gestionar usuarios, utilizando tecnologias PHP, HTML5, Bootstrap, JS y MySQL, es una aplicacion web que permite la:
