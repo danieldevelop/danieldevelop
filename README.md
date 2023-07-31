@@ -42,7 +42,6 @@ En el bootcamp de Henry me ha permitido adquirir nuevos conocimientos expandiend
 
 
 ## Mis proyectos
-
 ### Henry Bootcamp - Proyecto Final
 <img src="https://media.licdn.com/dms/image/D4E22AQHQwTJjSBfHlg/feedshare-shrink_2048_1536/0/1687525932017?e=1690416000&v=beta&t=xqwkh-x1dyIJNdAQdxyqgWivQb1eRczkViqhiPFUO68" width=250 align="left">
 
