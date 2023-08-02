@@ -56,7 +56,7 @@ Link del Repositorio: [Tasty-Meals](https://github.com/az302001/Tasty-Meals)
 <br>
 
 ### Henry Bootcamp - Proyecto Individual
-<img src="https://media.licdn.com/dms/image/D4E22AQEuU3WeecUVuw/feedshare-shrink_2048_1536/0/1687487064350?e=1690416000&v=beta&t=ltObpgvfu1kN67YnPwHBLEJw6eUiI2-uP2k1Poinc7w" width=250 align="left"> 
+<img src="https://drive.google.com/file/d/1KpCD35kFHkn3jvQNhdLnhwNSOMtljh4M/view?usp=drive_link" width=250 align="left"> 
 
 Single Page Application utilizando las tecnologías: React, Redux, Node, Express y Sequelize, es una aplicación web a partir de la API pokeapi en la que se puede:
 
@@ -68,7 +68,7 @@ Single Page Application utilizando las tecnologías: React, Redux, Node, Express
 <br><br>
 
 ### CRUD - Sistema de gestion de usuarios
-<img src="https://user-images.githubusercontent.com/51731637/209741909-1f3c4def-03b3-4fba-8a77-a1bd9ece452f.png" width=400  align="left">
+<img src="https://drive.google.com/file/d/1nWYaggJgFa8ouOJWmj4IaiPxfc0s8iMQ/view?usp=drive_link" width=400  align="left">
 
 Sistema para gestionar usuarios, utilizando tecnologias PHP, HTML5, Bootstrap, JS y MySQL, es una aplicacion web que permite la:
 
