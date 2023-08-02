@@ -43,7 +43,7 @@ En el bootcamp de Henry me ha permitido adquirir nuevos conocimientos expandiend
 
 ## Mis proyectos
 ### Henry Bootcamp - Proyecto Final
-<img src="https://photos.google.com/photo/AF1QipMs50oQKwhWhvqUnJgEwxrb3Rzi2e_uCprgh4yt" width=250 align="left">
+<img src="https://s.lalal.ai/share/share-default.png" width=250 align="left">
 
 Carta virtual de restaturant, donde los usuarios se podra registrar mediante de un formulario o autenticacion de tercero,
 los usuaros podran comprar comida desde la comodidad de su casa con despacho a domicilio.
