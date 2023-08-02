@@ -56,7 +56,7 @@ Link del Repositorio: [Tasty-Meals](https://github.com/az302001/Tasty-Meals)
 <br>
 
 ### Henry Bootcamp - Proyecto Individual
-<img src="https://drive.google.com/file/d/1KpCD35kFHkn3jvQNhdLnhwNSOMtljh4M/view?usp=drive_link" width=250 align="left"> 
+<img src="https://github.com/danieldevelop/danieldevelop/assets/51731637/c5a6e85a-1398-44cc-8697-4524469a1619" width=250 align="left"> 
 
 Single Page Application utilizando las tecnologías: React, Redux, Node, Express y Sequelize, es una aplicación web a partir de la API pokeapi en la que se puede:
 
