@@ -1,18 +1,12 @@
 # Hola 👋, Soy Daniel G <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px">
 
-Soy un **_Desarrollador DevOps_** orientado al desarrollo **_Back-end_** y músico.
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" align="right" />
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" align="right"/>
-  
-Desde que tengo 16 años me ha interesado el mundo de la programación. Mi primer lenguaje fue **_Java_**. Sin duda una de las experencias mas     motivadoras fue mi acercamiento al código. 
-
-Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion como programador. **_Me fascina poder encontrar la solución a los problemas de la vida con código_**
-
-
+<p style="text-align: justify;">
+Analista Programador Computacional con experiencia en el análisis de sistemas informáticos y desarrollo de software, incorporando soluciones seguras. Experto en el uso de herramientas de desarrollo como HTML5, CSS3, JavaScript, JAVA, JSP (Java Server Page), PHP, SQL. Destaco en la creación de aplicaciones web complejas y robustas, así como en la implementación de soluciones orientadas a optimizar la experiencia del usuario y mejorar el rendimiento empresarial.
+</p>
 
 ## Skills:
-
-En el bootcamp de Henry me ha permitido adquirir nuevos conocimientos expandiendo mis herramientas y lenguajes de trabajo. Por lo que las principales tencologias que menejo son:
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/Html5-F1642E?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -45,12 +39,11 @@ En el bootcamp de Henry me ha permitido adquirir nuevos conocimientos expandiend
 ### Henry Bootcamp - Proyecto Final
 <img src="https://github.com/danieldevelop/danieldevelop/assets/51731637/245127b1-6d0f-4aea-ae32-10b4d183baff" width=250 align="left">
 
-Carta virtual de restaturant, donde los usuarios se podra registrar mediante de un formulario o autenticacion de tercero,
-los usuaros podran comprar comida desde la comodidad de su casa con despacho a domicilio.
+&nbsp;&nbsp;Carta virtual de restaturant, donde los usuarios se podra registrar mediante de un formulario o &nbsp;&nbsp;autenticacion de tercero, los usuaros podran comprar comida desde la comodidad de su casa con &nbsp;&nbsp;despacho a domicilio.
 
-Si quieres ver nuestro proyecto te envito a entrar al siguiente enlace: [Tasty-Meals](https://tasty-meals.vercel.app/)
+&nbsp;&nbsp;Si quieres ver nuestro proyecto te envito a entrar al siguiente enlace: [Tasty-Meals](https://tasty-meals.vercel.app/)
 
-Colaboradores: **_Lourdes Candela Moreno, Gonzalo Daniel Brito, Fernando Teodoro Trillo, Julio Francisco Trillo, Erick Ricardo Inga Calle, Robert Henrry Leon Huaman, Bruno Santamaria_**
+&nbsp;&nbsp;Colaboradores: **_Lourdes Candela Moreno, Gonzalo Daniel Brito, Fernando Teodoro Trillo, Julio Francisco Trillo, Erick Ricardo Inga Calle, Robert Henrry Leon Huaman, Bruno Santamaria_**
 
 Link del Repositorio: [Tasty-Meals](https://github.com/az302001/Tasty-Meals)
 <br>
@@ -58,24 +51,25 @@ Link del Repositorio: [Tasty-Meals](https://github.com/az302001/Tasty-Meals)
 ### Henry Bootcamp - Proyecto Individual
 <img src="https://github.com/danieldevelop/danieldevelop/assets/51731637/c5a6e85a-1398-44cc-8697-4524469a1619" width=250 align="left"> 
 
-Single Page Application utilizando las tecnologías: React, Redux, Node, Express y Sequelize, es una aplicación web a partir de la API pokeapi en la que se puede:
+
+&nbsp;&nbsp;Single Page Application utilizando las tecnologías: React, Redux, Node, Express y Sequelize, es una &nbsp;&nbsp;aplicación web a partir de la API pokeapi en la que se puede:
 
 <span>
-  - <strong>Buscar un pokemon</strong><br>
-  - <strong>Visualizar el detalle de un pokemon</strong><br>
-  - <strong>Crear nuevos pokemones</strong>
+  &nbsp;&nbsp;- <strong>Buscar un pokemon</strong><br>
+  &nbsp;&nbsp;- <strong>Visualizar el detalle de un pokemon</strong><br>
+  &nbsp;&nbsp;- <strong>Crear nuevos pokemones</strong>
 </span>
 <br><br>
 
 ### CRUD - Sistema de gestion de usuarios
 <img src="https://github.com/danieldevelop/danieldevelop/assets/51731637/ab5a37d0-c1d4-41e2-940a-d22687a4c029" width=400  align="left">
 
-Sistema para gestionar usuarios, utilizando tecnologias PHP, HTML5, Bootstrap, JS y MySQL, es una aplicacion web que permite la:
+&nbsp;&nbsp;Sistema para gestionar usuarios, utilizando tecnologias PHP, HTML5, Bootstrap, JS &nbsp;&nbsp;y MySQL, es una aplicacion web que permite la:
 
 <span>
-  - <strong>Creacion de un usuario</strong><br>
-  - <strong>Leer y Actualizar un usuario</strong><br>
-  - <strong>Eliminar un usuario</strong>
+  &nbsp;&nbsp;- <strong>Creacion de un usuario</strong><br>
+  &nbsp;&nbsp;- <strong>Leer y Actualizar un usuario</strong><br>
+  &nbsp;&nbsp;- <strong>Eliminar un usuario</strong>
 </span>
 <br><br>
 
