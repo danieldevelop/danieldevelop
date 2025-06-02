@@ -39,7 +39,7 @@ Analista Programador Computacional con experiencia en el análisis de sistemas i
 ### Henry Bootcamp - Proyecto Final
 <img src="https://github.com/danieldevelop/danieldevelop/assets/51731637/245127b1-6d0f-4aea-ae32-10b4d183baff" width=250 align="left">
 
-&nbsp;&nbsp;Carta virtual de restaturant, donde los usuarios se podra registrar mediante de un formulario o &nbsp;&nbsp;autenticacion de tercero, los usuaros podran comprar comida desde la comodidad de su casa con &nbsp;&nbsp;despacho a domicilio.
+&nbsp;&nbsp;Carta virtual de restaturant, donde los usuarios se podra registrar mediante de un &nbsp;&nbsp formulario o &nbsp;&nbsp;autenticacion de tercero, los usuaros podran comprar comida  &nbsp;&nbsp desde la comodidad de su casa con &nbsp;&nbsp;despacho a domicilio.
 
 &nbsp;&nbsp;Si quieres ver nuestro proyecto te envito a entrar al siguiente enlace: [Tasty-Meals](https://tasty-meals.vercel.app/)
 
